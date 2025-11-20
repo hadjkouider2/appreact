@@ -163,18 +163,6 @@ main{
   text-align: center;
 }
 
-footer{
-  background-color: #1b1b1b;
 
-  padding: 20px 0;
-  text-align: center;
-  font-size: 18px;
-}
 
-/* ==================
-    3. header of mobile
-===================== */
-.show-when-mobile {
-  display: none;
-}
 

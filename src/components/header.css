@@ -1,0 +1,25 @@
+
+
+/* ==================
+    3. header of mobile
+===================== */
+.show-when-mobile {
+  display: none;
+}
+
+
+@media (max-width: 800px) {  
+/* ==================
+    3. header of mobile
+===================== */
+
+header {  
+  background-color :red 
+}
+.show-when-mobile {
+  display: block;
+}
+.hide-when-mobile {
+  display: none;  
+}
+}    
