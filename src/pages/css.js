@@ -4,13 +4,12 @@
 import React from 'react';
 import Header from '../components/header';
 import Footer from '../components/footer';
+import MainContent from '../components/MainContent';
 const Css = () => {
   return (
       <>
       <Header/>
-      <main>
-      CSS PAGE
-      </main>
+  <MainContent pageName="CSS" />
     <Footer/>
     </>
   );
