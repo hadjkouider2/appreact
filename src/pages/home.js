@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <>
       <Header />
-      <MainContent pageName="Home" />
+      <MainContent pageName="Home"  designerName="Benbouali"/>
       <Footer />
     </>
   );

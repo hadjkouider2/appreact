@@ -9,7 +9,7 @@ const Css = () => {
   return (
       <>
       <Header/>
-  <MainContent pageName="CSS" />
+  <MainContent pageName="CSS" designerName="Kouider" />
     <Footer/>
     </>
   );

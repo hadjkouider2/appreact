@@ -10,7 +10,7 @@ const Javascript = () => {
   return (
       <>
     <Header/>
-    <MainContent pageName="JAVASCRIPT" />
+    <MainContent pageName="JAVASCRIPT" designerName="Hadj"/>
     <Footer/>
     </>
   );
