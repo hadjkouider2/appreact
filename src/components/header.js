@@ -3,12 +3,13 @@ import { Link, NavLink } from 'react-router-dom';
 import './header.css';
 
 
+
 const Header = () => {
   return (
     <div>
     
           <header  className="hide-when-mobile">
-        <Link to="/">Courses 4 Arab</Link>
+        <Link to="/"style={{padding: "25px"}}  >React-Benbouali</Link>
         <ul className="flex">
           <li className="main-list">
             <NavLink className="main-link" to="/html">

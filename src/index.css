@@ -9,4 +9,6 @@ body {
 
 .title, h2 {
   text-align: center;
-}
+  justify-items: center;
+  color: blue;  
+}  
