@@ -1,15 +1,15 @@
-import React from 'react';
-import './footer.css'
+import React from "react";
+import "./footer.css";
 
 const Footer = () => {
   return (
-    <div>
-      <footer>
-        Designed and developed by Courses4Arab.com
+    <footer>
+      <div className="footer-content">
+        Designed and developed by benbouali.com
         <span>🧡</span>
-      </footer>
-    </div>
+      </div>
+    </footer>
   );
-}
+};
 
 export default Footer;
