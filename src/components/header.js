@@ -70,7 +70,7 @@ const Header = () => {
         </ul>
       </header>
       <header className="show-when-mobile">
-        <h1>Courses 4 Arab</h1>
+        <h1>React-Benbouali</h1>
         <label className="absolute" htmlFor="burger">
           <i className="fas fa-bars" />
         </label>
@@ -83,7 +83,7 @@ const Header = () => {
             <input id="html" type="checkbox" />
             <ul className="sub-div">
               <li>
-                <a href="">Full Course</a>
+                <NavLink to="/html">Full Course</NavLink>
               </li>
               <li>
                 <a href="">Crash Course</a>
@@ -100,7 +100,7 @@ const Header = () => {
             <input id="css" type="checkbox" />
             <ul className="sub-div">
               <li>
-                <a href="">Full Course</a>
+                <NavLink to="/css">Full Course</NavLink>
               </li>
               <li>
                 <a href="">CSS Examples</a>
@@ -131,7 +131,7 @@ const Header = () => {
             <input id="js" type="checkbox" />
             <ul className="sub-div">
               <li>
-                <a href="">coming soon🔥</a>
+                <NavLink to="/javascript">coming soon🔥</NavLink>
               </li>
             </ul>
           </div>

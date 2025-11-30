@@ -12,10 +12,10 @@
 /* ==================
     3. header of mobile
 ===================== */
-
-header {  
-  background-color :red 
+header{
+  background-color: black;
 }
+
 .show-when-mobile {
   display: block;
 }

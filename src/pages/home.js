@@ -13,12 +13,12 @@ const Home = () => {
         <style type="text/css">{`
       p {
             color: red;
-            font-size: 50px;
+            font-size: 12px;
         }
     `}</style>
       </Helmet>
       <Header />
-      <p>This is a paragraph with red text and font size 50 px only in Home page.</p>
+      <p>This is a paragraph with red text and font size 12 px only in Home page.</p>
       <MainContent pageName="Home" designerName="Benbouali"    />
       
       <Footer />
